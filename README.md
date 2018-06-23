@@ -2,39 +2,39 @@
 
 Async and Non-blocking Api to find registered Restaurants on the Database and Available Restaurants to register on Google Places API
 
-Technologies:
+<h3>Technologies</h3>
 
-Spring Boot
+<b>Spring Boot</b>
 
-Database: Spring Data and PostgreSQL
+<b>Database:</b> Spring Data and PostgreSQL
 
-Database Versioning: Flyway
+<b>Database Versioning:</b> Flyway
 
-Test Container: docker-client (Spotify)
+<b>Test Container:</b> docker-client (Spotify)
 
-Swagger: Spring FOX
+<b>Swagger: </b>Spring FOX
 
-Entity Converting: Orika
+<b>Entity Converting: Orika
 
-Aditional things:
+<b>Aditional things:</b>
 
-Lombok for write less code
+<b>Lombok</b> for write less code
 
   
  
 
 
-Requirements:
+<h3>Requirements:</h3>
 
-Java8
+Java 8
 
 docker
 
 docker-compose
 
 
-To see Swagger 2 Path:
+<b>To see Swagger 2 Path:</b>
 http://localhost:8080/swagger-ui.html
 
-Tests
+<b>Tests</b>
 The Integration Tests are using Docker-client and Flyway to populate database using JUnit ClassRule 
