@@ -33,7 +33,8 @@ docker
 docker-compose
 
 
-<b>To see Swagger 2 Path:</b>
+<b>To see Swagger 2 UI:</b>
+<br/>
 http://localhost:8080/swagger-ui.html
 
 <b>Tests</b>
