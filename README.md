@@ -2,6 +2,21 @@
 
 Async and Non-blocking Api to find registered Restaurants on the Database and Available Restaurants to register on Google Places API
 
+
+<h3>Requirements:</h3>
+
+docker
+
+docker-compose
+
+<h3>How to use</h3>
+<h4>To up Database</h4>
+<br/>docker-compose up -d
+
+<br/>
+<h4>To up Application</h4>
+docker build . 
+
 <h3>Technologies</h3>
 
 <b>Spring Boot</b>
@@ -19,18 +34,6 @@ Async and Non-blocking Api to find registered Restaurants on the Database and Av
 <b>Aditional things:</b>
 
 <b>Lombok</b> for write less code
-
-  
- 
-
-
-<h3>Requirements:</h3>
-
-Java 8
-
-docker
-
-docker-compose
 
 
 <b>To see Swagger 2 UI:</b>
