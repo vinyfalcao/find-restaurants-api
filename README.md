@@ -11,4 +11,5 @@ docker
 docker-compose
 
 
-Swagger 2 API URL:
+To see Swagger 2 Path:
+http://localhost:8080/swagger-ui.html
